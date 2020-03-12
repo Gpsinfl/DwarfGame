@@ -1,0 +1,24 @@
+Choose Class
+-Dwarf Wizard
+-Dwarf Warrior
+
+Atributes
+-Dwarf Wizard
+    -Magic
+    -Agility
+    -Wits
+
+-Dwarf Warrior
+    -Strength
+    -Agility
+    -Speed
+
+[PrintPoints]
+
+
+
+ClassSelection
+ - Select Character type (Wiz, War)
+
+-Assign Skill Points
+
