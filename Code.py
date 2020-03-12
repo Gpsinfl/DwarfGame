@@ -71,6 +71,3 @@ def WarriorTree():
 def WizardTree():
     user = DwarfWizard(input("Name Your Challenger"), 0, 0, 0)
     print(user.name)
-
-
-ClassSelection()
